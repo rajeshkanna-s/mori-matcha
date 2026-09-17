@@ -4,7 +4,10 @@
 
 [![Vite](https://img.shields.io/badge/Vite-6.4.2-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-success?logo=github)](https://rajeshkanna-s.github.io/mori-matcha/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+🔗 **Live Website**: [https://rajeshkanna-s.github.io/mori-matcha/](https://rajeshkanna-s.github.io/mori-matcha/)
 
 ---
 
